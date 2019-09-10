@@ -9,8 +9,7 @@ open the project by clicking on 'NYTimesAPIdemo.xcodeproj' in Xcode
 
 ### Prerequisites
 
-Macbook Pro machine
-Xcode >= 9.0
+Macbook Pro machine with Xcode >= 9.0
 
 ### Running the project
 
